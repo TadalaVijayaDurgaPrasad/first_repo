@@ -1,3 +1,0 @@
-Hi This is devops file.
-I am going to write each and every command (what i have executed in this session) in this file.
-Thank you for joing here.
